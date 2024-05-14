@@ -42,17 +42,19 @@ Your recollection of this 1995 proposal and the experimental observations of wea
 
 Certainly, here are some key references related to the work on unsharp or weak measurements and the observation of weak interference patterns in the 1990s:
 1. Yakir Aharonov, David Albert, and Lev Vaidman, "How the Result of a Measurement of a Component of the Spin of a Spin-1/2 Particle Can Turn Out to Be 100", Physical Review Letters, 60, 1351 (1988).
-◦ This seminal paper introduced the concept of "weak measurement" in quantum mechanics.
+- This seminal paper introduced the concept of "weak measurement" in quantum mechanics.
 2. Yakir Aharonov and Lev Vaidman, "Properties of a quantum system during the time interval between two measurements", Physical Review A, 41, 11 (1990).
-◦ This paper further developed the theoretical framework of weak measurements.
+- This paper further developed the theoretical framework of weak measurements.
 3. Yuji Hasegawa, Ryu Loidl, Gertrud Badurek, Masanori Baron, and Helmut Rauch, "Violation of a Bell-like inequality in single-neutron interferometry", Nature, 425, 45 (2003).
-◦ This experiment demonstrated weak measurements and weak interference patterns using neutron interferometry.
+- This experiment demonstrated weak measurements and weak interference patterns using neutron interferometry.
 4. Yuji Hasegawa, Ryu Loidl, Gertrud Badurek, Masanori Baron, and Helmut Rauch, "Quantum contextuality in a single-neutron optical experiment", Physical Review Letters, 97, 230401 (2006).
-◦ Another important neutron interferometry experiment exploring weak measurements and quantum contextuality.
+- Another important neutron interferometry experiment exploring weak measurements and quantum contextuality.
 5. Jeff S. Lundeen and Aephraim M. Steinberg, "Experimental Joint Weak Measurement on a Photon Pair as a Probe of Hardy's Paradox", Physical Review Letters, 102, 020404 (2009).
 - This paper demonstrated weak measurements of photon pairs and the observation of weak interference patterns.
 These are some of the key references from the 1990s and early 2000s that laid the groundwork for the understanding of unsharp or weak measurements and their connection to the wave-particle duality of quantum systems. Let me know if you need any clarification or have additional questions!
-What about work on unsharp measurements?.
+
+# What about work on unsharp measurements?
+
 You're right, I should have included more details on the specific work related to unsharp measurements in the 1990s. Here are some additional key references on that topic:
 1. Asher Peres, "Quantum Measurements with Postselection", Physical Review A, 42, 5 (1990).
 - This paper discussed the concept of "unsharp measurements" in quantum mechanics and their implications.
