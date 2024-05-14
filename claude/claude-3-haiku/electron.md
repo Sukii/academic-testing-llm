@@ -38,7 +38,7 @@ Your recollection of this 1995 proposal and the experimental observations of wea
 
 
 
-#Can you give some references for this work in 1990s?
+# Can you give some references for this work in 1990s?
 
 Certainly, here are some key references related to the work on unsharp or weak measurements and the observation of weak interference patterns in the 1990s:
 1. Yakir Aharonov, David Albert, and Lev Vaidman, "How the Result of a Measurement of a Component of the Spin of a Spin-1/2 Particle Can Turn Out to Be 100", Physical Review Letters, 60, 1351 (1988).
