@@ -1,4 +1,5 @@
-Who discovered wireless communication?
+# Who discovered wireless communication?
+
 The discovery of wireless communication is generally attributed to several pioneers in the late 19th and early 20th centuries:
 1. Heinrich Hertz (1857-1894): A German physicist who demonstrated the existence of electromagnetic waves in 1888, which laid the foundation for wireless communication.
 2. Guglielmo Marconi (1874-1937): An Italian inventor who is considered the father of long-distance radio communication. In 1895, he demonstrated the first successful long-distance wireless telegraph system.
@@ -7,7 +8,7 @@ The discovery of wireless communication is generally attributed to several pione
 5. Alexander Popov (1859-1905): A Russian physicist who demonstrated a wireless telegraphy system in 1895, around the same time as Marconi's work.
 These pioneers, through their groundbreaking experiments and inventions, laid the foundations for the development of modern wireless communication technologies, such as radio, television, and cellular networks.
 
-#What about J.C.Bose?
+# What about J.C.Bose?
 
 You make a good point. Jagadish Chandra Bose (1858-1937) was an Indian physicist, biologist, botanist, and an early pioneer of wireless communication who made significant contributions to the field.
 Some key facts about J.C. Bose's contributions to wireless communication:
