@@ -16,7 +16,7 @@ Some key reasons why prions are not considered to be living beings:
     4. No metabolism or growth: Prions do not exhibit the metabolic activities or growth patterns that are hallmarks of living organisms.
 So in summary, while prions are infectious agents that can cause serious diseases, they are not classified as living beings in the biological sense. They are considered to be non-living infectious proteins rather than living organisms.
 
-# What were the earliest redimentary life froms, just proteins, RNA?
+# What were the earliest rudimentary life forms, just proteins, RNA?
 
 The earliest rudimentary life forms on Earth are believed to have emerged from prebiotic chemistry and the formation of simple organic molecules, which eventually led to the development of more complex biomolecules and primitive cellular structures.
 The current scientific consensus suggests that the earliest forms of life were likely based on RNA (ribonucleic acid) rather than DNA (deoxyribonucleic acid) or proteins. This hypothesis is known as the "RNA world" theory.
