@@ -1,4 +1,4 @@
-# If the earth is pulling the moon through graviational force, then how is it able to pull without a material like a thread connecting the two?
+# If the earth is pulling the moon through gravitational force, then how is it able to pull without a material like a thread connecting the two?
 
 This is a great question about the nature of gravitational force. The key thing to understand is that gravitational force does not require a physical connection or "material" like a thread between the two objects.
 
@@ -12,7 +12,7 @@ So in summary, the Earth pulls the Moon through the curvature of spacetime, not 
 
 
 
-# What about the particle gravition? Is it not the particle or gravitational wave that acts like the material thread or agent for the pulling force?
+# What about the particle graviton? Is it not the particle or gravitational wave that acts like the material thread or agent for the pulling force?
 
 
 That's a great follow-up question. The concept of gravitational particles or waves is an important part of the modern understanding of gravity.

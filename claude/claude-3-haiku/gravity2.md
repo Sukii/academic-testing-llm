@@ -1,4 +1,4 @@
-# If the earth is pulling the moon through graviational force, then how is it able to pull without a material like a thread connecting the two?
+# If the earth is pulling the moon through gravitational force, then how is it able to pull without a material like a thread connecting the two?
 
 That's a great question about the nature of gravitational force. The simple answer is that gravitational force does not require a physical connection or "thread" between objects.
 
