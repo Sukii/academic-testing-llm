@@ -12,7 +12,7 @@ So in summary, the Earth pulls the Moon through the curvature of spacetime, not 
 
 
 
-# What about the particle gravition? Is it not the particle or graviational wave that acts like the material thread or agent for the pulling force?
+# What about the particle gravition? Is it not the particle or gravitational wave that acts like the material thread or agent for the pulling force?
 
 
 That's a great follow-up question. The concept of gravitational particles or waves is an important part of the modern understanding of gravity.
